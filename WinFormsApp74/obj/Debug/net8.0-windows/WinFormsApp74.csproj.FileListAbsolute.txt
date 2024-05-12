@@ -1,0 +1,16 @@
+C:\Users\ПК\Downloads\WinFormsApp74\bin\Debug\net8.0-windows\WinFormsApp74.exe
+C:\Users\ПК\Downloads\WinFormsApp74\bin\Debug\net8.0-windows\WinFormsApp74.deps.json
+C:\Users\ПК\Downloads\WinFormsApp74\bin\Debug\net8.0-windows\WinFormsApp74.runtimeconfig.json
+C:\Users\ПК\Downloads\WinFormsApp74\bin\Debug\net8.0-windows\WinFormsApp74.dll
+C:\Users\ПК\Downloads\WinFormsApp74\bin\Debug\net8.0-windows\WinFormsApp74.pdb
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\WinFormsApp74.Form1.resources
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\WinFormsApp74.csproj.GenerateResource.cache
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\WinFormsApp74.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\WinFormsApp74.AssemblyInfoInputs.cache
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\WinFormsApp74.AssemblyInfo.cs
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\WinFormsApp74.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\WinFormsApp74.dll
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\refint\WinFormsApp74.dll
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\WinFormsApp74.pdb
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\WinFormsApp74.genruntimeconfig.cache
+C:\Users\ПК\Downloads\WinFormsApp74\obj\Debug\net8.0-windows\ref\WinFormsApp74.dll
